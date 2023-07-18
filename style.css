@@ -39,6 +39,7 @@ img {
   height: 100%;
   transition: all 0.2s;
 }
+
 @media (max-width: 432px) {
     header {
         margin-bottom: 2rem;
